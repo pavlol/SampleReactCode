@@ -1,0 +1,40 @@
+.weekday-column {
+    -webkit-box-flex: 0;
+    box-flex: 0;
+    -webkit-flex-grow: 0;
+    flex-grow: 0;
+    -webkit-flex-shrink: 0;
+    flex-shrink: 0;
+    overflow: hidden;
+    padding-right: 10px;
+    text-overflow: ellipsis;
+    vertical-align: top;
+    width: 100px;
+}
+.weekday-time-column{
+    -webkit-box-flex: 1;
+    box-flex: 1;
+    -webkit-flex-grow: 1;
+    flex-grow: 1;
+    -webkit-flex-shrink: 1;
+    flex-shrink: 1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.weekday-row{
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+
+}
+.weekday-container{
+    color: inherit;
+    -webkit-box-flex: 1;
+    box-flex: 1;
+    -webkit-flex-grow: 1;
+    flex-grow: 1;
+    -webkit-flex-shrink: 1;
+    flex-shrink: 1;
+    min-width: 0;
+    word-wrap: break-word;
+}

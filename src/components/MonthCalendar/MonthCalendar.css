@@ -1,0 +1,10 @@
+.month-calendar{
+ margin:20px 0px 0px 0px;
+ max-width:500px;
+}
+.sunday-highlight{
+    color:red;
+}
+.selected-highlight{
+    font-weight: bold;
+}

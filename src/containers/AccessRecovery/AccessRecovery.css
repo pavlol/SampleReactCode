@@ -1,0 +1,16 @@
+.access-recovery{
+    background-image: url(../../img/daniel-frank-201416-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center top;
+    background-size: auto;
+  }
+  .access-recovery > div{
+    padding-top: 1px;
+  }
+  .access-recovery-centre {
+    margin:100px auto;
+    /* padding-top: 100px; */
+    padding: 100px;
+  }
+  

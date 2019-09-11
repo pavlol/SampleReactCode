@@ -1,0 +1,35 @@
+.signupForm{
+  width : 30%;
+  margin:auto;
+}
+
+.signupchoice { 
+  height: 200px;
+  position: inherit;
+  border: 0px solid gray; 
+}
+
+.signupchoice > div {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.ui.buttons a{
+  padding: 50px;
+  min-width: 300px;
+}
+.ui.buttons > div{
+  margin-top: 40px;
+}
+.signup-form{
+  background-image: url(../../../img/daniel-frank-201416-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center top;
+  background-size: auto;
+}
+.signup-form > div{
+  padding-top: 1px;
+}

@@ -1,0 +1,10 @@
+.signup-patient-form{
+    background-image: url(../../img/daniel-frank-201416-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center top;
+    background-size: auto;
+  }
+  .signup-patient-form > div{
+    padding-top: 1px;
+  }

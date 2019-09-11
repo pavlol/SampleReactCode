@@ -1,0 +1,12 @@
+.landing-search{
+    margin:30px auto;
+    padding: 10px;
+  }
+.hideCalendar {
+    display: none;
+}  
+.showCalendar{
+    display: block;
+    z-index: 1000;
+    position: absolute;
+}

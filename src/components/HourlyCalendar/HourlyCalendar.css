@@ -1,0 +1,16 @@
+textarea{
+    width:100%;
+}
+.hourly-calendar{
+    margin-right: 20px;
+}
+.time-row{
+    max-width: 20px;
+}
+.modal-vertical-size-setter{
+    min-height:200px;
+}
+.date-label{
+    font-weight: bold;
+    color: #8a2be2;
+}
